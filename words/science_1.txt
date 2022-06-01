@@ -1,0 +1,266 @@
+*  activate v.
+* acute adj.
+* adjacent adj.
+* agricultural adj.
+* agriculture n.
+* antibody n.
+* array n.
+* assess v.
+* assessment n.
+* assumption n.
+* atomic adj.
+* attribute v., n.
+* axis n.
+* beam n.
+* binary adj.
+* bind v.
+* biological adj.
+* bond n., v.
+* boundary n.
+* calcium n.
+* capability n.
+* carbon n.
+* chromosome n.
+* chronic adj.
+* circuit n.
+* classification n.
+* classify v.
+* clinic n.
+* clinical adj.
+* clone n., v.
+* cloning n.
+* cluster n., v.
+* component n., adj.
+* composition n.
+* compound n., adj.
+* comprise v.
+* compute v.
+* computing n.
+* consequently adv.
+* conservation n.
+* consistent adj.
+* constraint n.
+* continental adj.
+* coordinate (BrE also co-ordinate) v., n.
+* copper n.
+* correlation n.
+* correspond v.
+* corresponding adj.
+* crystal n.
+* database n.
+* density n.
+* dependent adj.
+* detect v.
+* diagnosis n.
+* diameter n.
+* differ v.
+* digital adj.
+* dimension n.
+* discharge v., n.
+* disorder n.
+* distinct adj.
+* DNA n.
+* domain n.
+* dose n.
+* efficiency n.
+* electron n.
+* eliminate v.
+* embryo n.
+* emission n.
+* enhance n.
+* enhanced adj.
+* enzyme n.
+* equation n.
+* equilibrium n.
+* et al. abbr.
+* evaluate v.
+* evaluation n.
+* evolution n.
+* evolutionary adj.
+* evolve v.
+* exceed v.
+* excess n., adj.
+* expansion n.
+* experimental adj.
+* exploit v.
+* exploration n.
+* exposure n.
+* external adj.
+* extract n., v.
+* fibre (BrE) (NAmE fiber) n.
+* filter n., v.
+* finding n.
+* fluid n., adj.
+* formation n.
+* fossil n.
+* fraction n.
+* fragment n.
+* framework n.
+* frequency n.
+* functional adj.
+* furthermore adv.
+* fusion n.
+* galaxy n.
+* gene n.
+* genetic adj.
+* genetically adv.
+* genetics n.
+* geological adj.
+* geology n.
+* graph n.
+* gravitational adj.
+* gravity n.
+* habitat n.
+* hydrogen n.
+* hypothesis n.
+* identical adj.
+* identification n.
+* incidence n.
+* incorporate v.
+* induce v.
+* infant n., adj.
+* input n.
+* integrate v.
+* integrated adj.
+* intense adj.
+* intensity n.
+* interaction n.
+* intermediate adj.
+* intervention n.
+* ion n.
+* isolate v.
+* isolated adj.
+* journal n.
+* laser n.
+* linear adj.
+* liver n.
+* long-term adj.
+* magnetic adj.
+* magnitude n.
+* maintenance n.
+* mammal n.
+* marine adj.
+* matrix n.
+* mechanical adj.
+* mechanism n.
+* membrane n.
+* mode n.
+* modification n.
+* modify v.
+* molecular adj.
+* molecule n.
+* mortality n.
+* multiple adj., n.
+* mutant adj., n.
+* mutation n.
+* neutron n.
+* node n.
+* nucleus n.
+* numerous adj.
+* observer n.
+* optical adj.
+* oral adj.
+* orbit n., v.
+* organic adj.
+* organism n.
+* outcome n.
+* oxygen n.
+* ozone n.
+* parameter n.
+* particle n.
+* PC n.
+* percentage n.
+* pH n.
+* phenomenon n.
+* plasma n.
+* predator n.
+* prediction n.
+* prescribe v.
+* prey n., v.
+* principal adj.
+* probability n.
+* probe v., n.
+* profile n.
+* protein n.
+* protocol n.
+* proton n.
+* pulse n.
+* pump n., v.
+* radiation n.
+* random adj., n.
+* at random
+* rat n.
+* ratio n.
+* ray n.
+* reactor n.
+* readily adv.
+* receptor n.
+* replacement n.
+* researcher n.
+* residue n.
+* resolution n.
+* respective adj.
+* respectively n.
+* rotation n.
+* satellite n.
+* scan v., n.
+* scatter v.
+* scattered adj.
+* sediment n.
+* segment n., v.
+* sensitivity n.
+* sequence n., v.
+* sequencing n.
+* serum n.
+* shield n., v.
+* significance n.
+* sodium n.
+* solar adj.
+* solvent n.
+* species n.
+* specification n.
+* specify v.
+* specimen n.
+* spectrum n.
+* spine n.
+* stain v., n.
+* statistic n.
+* statistics n.
+* statistical adj.
+* stem n., v.
+* stimulate v.
+* stimulus n.
+* structural adj.
+* subsequent adj.
+* subsequently adv.
+* surgery n.
+* survival n.
+* symmetry n.
+* symptom n.
+* synthesis n.
+* terminal n., adj.
+* theoretical adj.
+* therapy n.
+* tissue n.
+* toxic adj.
+* transformation n.
+* transition n.
+* transmission n.
+* transmit v.
+* tumour (BrE) (NAmE tumor) n.
+* undergo v.
+* underlie v.
+* underlying adj.
+* undertake v.
+* undertaking n.
+* variable adj., n.
+* vector n.
+* vegetation n.
+* velocity n.
+* visual adj., n.
+* volcano n.
+* voltage n.
+* widespread adj.
+* wildlife n.
+* worldwide adj., adv.
+* yield v., n.

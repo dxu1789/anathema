@@ -1,0 +1,164 @@
+http://www.whfoods.com/foodstoc.php
+
+Vegetables
+
+    * Asparagus
+    * Avocados
+    * Beets
+    * Bell peppers
+    * Broccoli
+    * Brussels sprouts
+    * Cabbage
+    * Carrots
+    * Cauliflower
+    * Celery
+    * Collard greens
+    * Cucumbers
+    * Eggplant
+    * Fennel
+    * Garlic
+    * Green beans
+    * Green peas
+    * Kale
+    * Leeks
+    * Mushrooms, crimini
+    * Mushrooms, shiitake
+    * Mustard greens
+    * Olives
+    * Onions
+    * Potatoes
+    * Romaine lettuce
+    * Sea vegetables
+    * Spinach
+    * Squash, summer
+    * Squash, winter
+    * Sweet potatoes
+    * Swiss chard
+    * Tomatoes
+    * Turnip greens
+    * Yams
+
+Seafood
+
+    * Cod
+    * Halibut
+    * Salmon
+    * Scallops
+    * Shrimp
+    * Tuna
+
+Fruits
+
+    * Apples
+    * Apricots
+    * Bananas
+    * Blueberries
+    * Cantaloupe
+    * Cranberries
+    * Figs
+    * Grapefruit
+    * Grapes
+    * Kiwifruit
+    * Lemon/Limes
+    * Oranges
+    * Papaya
+    * Pears
+    * Pineapple
+    * Plums
+    * Prunes
+    * Raisins
+    * Raspberries
+    * Strawberries
+    * Watermelon
+
+Eggs & Low-Fat Dairy
+
+    * Cheese, low-fat
+    * Eggs
+    * Milk, 2%, cow's
+    * Milk, goat
+    * Yogurt
+
+Beans & Legumes
+
+    * Black beans
+    * Dried peas
+    * Garbanzo beans (chickpeas)
+    * Kidney beans
+    * Lentils
+    * Lima beans
+    * Miso
+    * Navy beans
+    * Pinto beans
+    * Soybeans
+    * Tempeh
+    * Tofu
+
+Poultry & Lean Meats
+
+    * Beef, lean organic
+    * Calf's liver
+    * Chicken
+    * Lamb
+    * Turkey
+    * Venison
+
+Nuts & Seeds
+
+    * Almonds
+    * Cashews
+    * Flaxseeds
+    * Olive oil, extra virgin
+    * Peanuts
+    * Pumpkin seeds
+    * Sesame seeds
+    * Sunflower seeds
+    * Walnuts
+
+Grains
+
+    * Barley
+    * Brown rice
+    * Buckwheat
+    * Corn
+    * Millet
+    * Oats
+    * Quinoa
+    * Rye
+    * Spelt
+    * Whole wheat
+
+Spices & Herbs
+
+    * Basil
+    * Black pepper
+    * Cayenne pepper
+    * Chili pepper, dried
+    * Cilantro/Coriander seeds
+    * Cinnamon, ground
+    * Cloves
+    * Cumin seeds
+    * Dill
+    * Ginger
+    * Mustard seeds
+    * Oregano
+    * Parsley
+    * Peppermint
+    * Rosemary
+    * Sage
+    * Thyme
+    * Turmeric
+
+Natural Sweeteners
+
+    * Blackstrap molasses
+    * Cane juice
+    * Honey
+    * Maple syrup
+
+Other
+
+    * Green tea
+    * Soy sauce (tamari)
+    * Water
+

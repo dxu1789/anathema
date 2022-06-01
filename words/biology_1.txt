@@ -1,0 +1,72 @@
+http://quizlet.com/148341/biology-midterm-vocabulary-flash-cards/
+
+Ionic Bond	A chemical bond formed by the attraction between oppositely charged ions
+Nucleotide	A subunit of DNA or RNA composed of a 5-carbon sugar, a nitrogen-containing base, and a phosphate group
+Purines	Have a double ring. Ex: Adenine and Guanine
+Pyrimidines	Have a single ring. Ex: Thymine, Cytosine, and Uracil
+Bioenergetics	Energy flow and change
+Heterotroph	An organism that obtains carbon compounds from other organisms
+Autotroph	An organism that forms its own food molecules (carbon compounds) from abiotic materials
+Biosphere	The outer portion of Earth-air, water, and soil- where life is found
+Entropy	A measure of the degree of disorganization of a system (How much energy in a system has become so dispersed that it is no longer available to do work
+Catabolic	A process in which large molecules are broken down into smaller ones
+Anabolic	A process in which large molecules are built from small molecules
+ADP	(Adenosine Diphosphate) The compound that remains when a phosphate group is removed from ATP, releasing energy
+ATP	(Adenosine Triphosphate) A compound that has three phosphate groups and is used by cells to store energy and to fuel many metabolic processes
+Prokaryote	An organism whose cells do not have membrane-enclosed nuclei or organelles
+Big Bang	When all of our universe’s condensed matter exploded, sending it into space where gravity pulled it into planets
+Eukaryote	An organism whose cells have a membrane-enclosed nucleus and organelles
+Plastid	Synthesize ATP from light in photosynthesis
+Chemoautotrophs	An organism that derives energy from the oxidation of inorganic compounds, such as hydrogen sulfide
+Photoautotrophs	An organism that derives energy from light and forms its own organic compounds (food) from abiotic carbon sources
+Mitochondria	The organelles in eukaryotic cells that carry on cell respiration
+Methanogens	Archaebacteria that live in anaerobic environments and produce methane as a by-product of their metabolic process
+Virus	A nonliving, infectious particle of nucleic acid, protein, and sometimes, lipid membrane that can replicate only inside a living cell
+Anaerobic	Occurring or living in conditions without free or dissolved oxygen
+Species	All individuals and populations of a particular type of organism that can interbreed with one another
+Lichens	Fungi and algae that live together in close association
+Taxonomy	The theories and techniques of describing, grouping, and naming living things
+Spontaneous Generation	The belief that a cell can be made from nonliving matter
+Cell	The basic living unit
+Lysosome	A cell vesicle that contains digestive enzymes (Animals Only)
+Endoplasmic Reticulum	Network system of tubes connecting organelles; Smooth (No Ribosomes) + Rough (Has Ribosomes)
+Chromosomes	Contain DNA for heredity
+Cell Wall	Nonliving, Rigid (Gives Support for Plants Only)
+Ribosomes	Small bodies in which proteins are made
+Diffusion	The movement of a substance down its concentration gradient from a more concentrated area to a less concentrated area.
+Phagocyte	Specialized cell that ingests and destroys foreign particles or microorganisms
+Nucleus	Control center for all activity
+Nucleoli	Synthesis of RNA
+Nuclear Envelope	Double Membrane; Semipermeable
+Cytosol	Semifluid material
+Cytoplasm	Cytosol + all organelles
+Mitochondria	Powerhouse for energy
+Cell/Plasma Membrane	Double semipermeable
+Golgi Apparatus	Flat sacs that package and secrete molecules for export
+Vacuoles	Vesicles for storage of salts, enzymes, food, pigments, H2O; Larger in plants
+Contractile Vacuoles	Pumps water in protists
+Cytoskeleton	Protein network for shape; Movement is made of microtubules
+Extensions of Cytoskeleton	Flagella (Whiplike) and Cilia (Short Hairs)
+Chloroplasts	Green plastids for photosynthesis (Plants Only)
+Centrioles	Tubelike; For cell reproduction in mitosis (Animals Only)
+Abiotic Factors	Referring to a physical or nonliving component of an ecosystem
+Producers	An autotroph; Any organism that produces its own food
+Food Webs	The overlapping food chains of an ecosystem
+Decomposers	An organism that lives on decaying organic material from which it obtains energy and nutrients
+Heat Energy	An unusable form of energy for organisms
+Enzymes	A protein or part-protein molecule made by an organism and used as a catalyst in a specific biochemical reaction
+Free Energy	Energy that is available to do work
+Chemical Energy	Energy stored in the structure of molecules
+Chemical reactions	The process of building chemical bonds that produces one or more new substances
+Synthesis	The process of building chemical compounds from smaller components by means of chemical reactions
+Metabolism	The sum of all the chemical changes taking place in an organism
+Absorption	When the large intestine reabsorbs water
+Ecosystem	A biological community and its abiotic environment
+Cancer	A group of disease that involves abnormal, uncontrolled growth and division of cells
+Cell Cycle	An ordered sequence of events in the life of a dividing eukaryotic cell, composed of mitosis and interphase growth and DNA synthesis phases
+Cell-Cycle Arrest	An abrupt halt in the cell cycle when proteins detect mistakes or damage in DNA that needs to be repaired
+Centromere	The specialized region of a chromosome that holds two replicated chromosomal strands together and that attached to the spindle in mitosis.
+Chromosome Segregation	Separation of the sister chromatids during mitosis in which each new nucleus receives one copy of each chromosome
+Cyclins	A group of proteins whose function is to regulate the progression of a cell through the cell cycle and whose concentrations rise and fall throughout the cell cycle
+Cytokinesis	The division of the cytoplasm of a cell after nucleus division
+Chromatin	In eukaryotes, the chromosomal material (DNA and associated proteins) as it ordinarily appears in a cell’s nucleus with individual chromosomes indistinct

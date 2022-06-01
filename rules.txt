@@ -1,0 +1,8 @@
+Rules of Anathema
+=================
+http://dumbses.pbworks.com/Anathema
+
+Swapping rules:
+	Player who guesses correctly goes up to explain the next word.	
+	[+1] correct guess
+	[-1] timer runs out on your turn

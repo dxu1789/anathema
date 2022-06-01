@@ -1,0 +1,201 @@
+802.11a	7	 
+802.11b	5	 
+802.11g	5	 
+802.11n	6	 
+Ad Hoc Network	8	 
+Analog	4	 
+ANSI	8	American National Standards Institute
+Apple	2	 
+ARP	8	Address Resolution Protocol
+ASCII	7	American Standard Code for Information Interchange
+Bespoke	8	 
+Binary	3	 
+Bluetooth	4	 
+Boolean	6	 
+Boot	2	 
+Boot Sequence	7	 
+Buffer	5	 
+Burn	3	 
+Cache	8	 
+Camera RAW	6	 
+Caps Lock	3	 
+CDMA	9	Code Division Multiple Access
+Character	2	 
+Clean Room	9	 
+Clock Speed	7	 
+CMYK	5	Cyan Magenta Yellow Black
+Computer Ethics	5	 
+Configuration	3	 
+CPS	5	Classroom Performance System
+Crop	3	 
+Crossplatform	6	 
+CTP	10	Composite Theoretical Performance
+Cybercrime	4	 
+DDL	8	Data Definition Language
+Default	2	 
+Defragment	5	 
+Delete	1	 
+Digital	3	 
+Digitize	4	 
+Domain	7	 
+Dot Matrix	7	 
+Double Click	2	 
+DPI	4	Dots Per Inch
+Drag	2	 
+DRM	7	Digital Rights Management
+DTD	8	Document Type Definition
+DV	4	Digital Video
+Edutainment	6	 
+Emulation	5	 
+Encryption	7	 
+End User	5	 
+EUP	10	Enterprise Unified Process
+FAQ	3	Frequently Asked Questions
+FIFO	6	First In, First Out
+File System	6	 
+Floating Point	8	 
+FLOPS	8	Floating Point Operations Per Second
+Flowchart	5	 
+Font	2	 
+Format	4	 
+Frame	4	 
+Gigaflops	6	 
+Gigahertz	3	 
+GIGO	7	Garbage In, Garbage Out
+GIS	8	Geographic Information Systems
+GPS	7	Global Positioning System
+Graphics	3	 
+Hacker	3	 
+Halftone	7	 
+Hard Copy	4	 
+HDTV	3	High Definition Televsion
+HDV	5	High-Definition Video
+Hexadecimal	7	 
+HFS	7	Hierarchical File System
+Hibernate	6	 
+Hover	4	 
+Hyper-Threading	8	 
+I/O	4	Input/Output
+IEEE	8	Institute of Electrical and Electronics Engineers
+Infotainment	6	 
+Input	2	 
+Integer	3	 
+Intellectual Property	7	 
+Interlaced	6	 
+Intranet	6	 
+IPX	9	Internetwork Packet Exchange
+ISO	7	International Organization for Standardization
+IT	3	Information Technology
+IVR	9	Interactive Voice Response
+Kerning	6	 
+Keystroke	2	 
+Keywords	4	 
+LAN	6	Local Area Network
+Leaf	7	 
+LIFO	6	Last In, First Out
+Load Balancing	8	 
+Localhost	7	 
+Logic Gate	6	 
+Login	3	 
+LPI	5	Lines Per Inch
+LUN	10	Logical Unit Number
+Macintosh	2	 
+MANET	10	Mobile Ad Hoc Network
+Megahertz	3	 
+Megapixel	3	 
+Metadata	7	 
+MIDI	4	Musical Instrument Digital Interface
+Mini DV	5	 
+MIPS	8	Million Instructions Per Second
+Mnemonic	9	 
+Multimedia	1	 
+Multiplatform	6	 
+Network	3	 
+Network Topology	7	 
+Newbie	4	 
+NTFS	7	New Technology File System
+Null	5	 
+OASIS	6	Organization for the Advancement of Structured Information Standards
+OEM	8	Original Equipment Manufacturer
+Offline	3	 
+OLAP	10	Online Analytical Processing
+Online	2	 
+Output	2	 
+Page Orientation	5	 
+Parse	6	 
+Partition	7	 
+Password	2	 
+Piconet	9	 
+Pixel	3	 
+Platform	5	 
+Podcast	6	 
+Port	3	 
+Power User	5	 
+PPI	6	Pixels Per Inch
+PPM	4	Pages Per Minute
+Primary Key	8	 
+Progressive Scan	7	 
+Push	6	 
+Queue	5	 
+QWERTY	5	 
+RAID	8	Redundant Array of Independent Disks
+RDF	8	Resource Description Framework
+Real-Time	5	 
+Recursion	6	 
+Recursive Function	7	 
+Refresh	4	 
+Refresh Rate	6	 
+Remote Access	6	 
+Remote User	6	 
+Resolution	5	 
+RGB	5	Red Green Blue
+Right Click	3	 
+Ripcording	6	 
+RUP	10	Rational Unified Process
+Safe Mode	5	 
+Sample	6	 
+Sampling	6	 
+SKU	5	Stock Keeping Unit
+SMS	7	Short Message Service
+SOA	9	Service Oriented Architecture
+Soft Copy	6	 
+Spooling	7	 
+sRGB	9	Standard Red Green Blue
+SSID	9	Service Set Identifier
+Stack	8	 
+Standalone	6	 
+Standby	5	 
+Subnet Mask	8	 
+Sync	5	 
+Syntax	6	 
+System Analyst	7	 
+System Hardening	9	 
+System Resources	7	 
+Target Disk Mode	6	 
+Telecommunications	5	 
+Thread	6	 
+Throughput	6	 
+Token	8	 
+Truncate	7	 
+Tweak	7	 
+Typeface	4	 
+U	6	 
+UDDI	10	Universal Description Discovery and Integration
+UNC	8	Universal Naming Convention
+User Interface	5	 
+Username	3	 
+Vector	5	 
+Veronica	10	 
+VFAT	8	Virtual File Allocation Table
+Virtual Memory	6	 
+Virtual Reality	5	 
+VLE	7	Virtual Learning Environment
+VRML	7	Virtual Reality Modeling Language
+WEP	7	Wired Equivalent Privacy
+White Paper	7	 
+Wi-Fi	4	Wireless Fidelity
+Wireless	2	 
+WPA	8	Wi-Fi Protected Access
+XML	6	Extensible Markup Language
+XSLT	8	Extensible Style Sheet Language Transformation
+Y2K	6	Year 2000

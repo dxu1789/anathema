@@ -97,7 +97,7 @@ roundtime = 60.0 * 4
 wordlist_directories = ["words", "saves", "completed"]
 saves_directory = wordlist_directories[1]
 
-sound_endround = os.path.join("sounds", "button.wav")
+sound_endround = os.path.join("sounds", "redalert.wav")
 rulesfile = "rules.txt"
 
 printrules(rulesfile)

@@ -6,6 +6,8 @@ import sys
 import time
 
 IS_WINDOWS = (os.name == "nt")
+IS_MAC = sys.platform == "darwin"
+
 if IS_WINDOWS:
     import winsound
 
@@ -21,14 +23,14 @@ def parseline(line):
     """ All-purpose parsing routine.
         Returns empty string if line has no word. """
     parsedline = line.strip().split()
-    if len(parsedline) > 0:
-        return line
+    if parsedline:
+        return line.strip()
     return ""
 
 def playsound(soundfile):
     if IS_WINDOWS:
         winsound.PlaySound(soundfile, winsound.SND_FILENAME)
-    else:
+    elif IS_MAC:
         os.system(f'afplay "{soundfile}" &')
 
 def pauseround():
@@ -38,18 +40,20 @@ def pauseround():
 
 def savegame(savename):
     global wordarray
-    if len(savename) <= 0:
+    if not savename.strip():
         print("[Error] Save name given is empty.")
         return
     try:
-        savetarget = os.path.join(saves_directory, savename + ".txt")
+        os.makedirs(saves_directory, exist_ok=True)
+        safe_name = "".join(c for c in savename if c.isalnum() or c in (' ', '_', '-')).strip()
+        savetarget = os.path.join(saves_directory, safe_name + ".txt")
         print(f"[Saving] {savetarget}")
         with open(savetarget, "w") as f:
             for s in wordarray:
                 f.write(s + "\n")
         print("[Game saved]")
-    except IOError:
-        print("You have failed at typing a name.")
+    except IOError as e:
+        print(f"[Error] Failed to save: {e}")
 
 def playround(filename, roundtime):
     global wordarray
@@ -60,40 +64,34 @@ def playround(filename, roundtime):
     with open(filename, "r") as wordfile:
         for line in wordfile:
             addword = parseline(line)
-            if len(addword) > 0:
+            if addword:
                 wordarray.append(addword)
 
-    def getword():
-        global wordarray
-        global endround
-        if len(wordarray) > 0:
-            print("\n\n\n\n")
-            nextindex = random.randint(0, len(wordarray) - 1)
-            nextword = wordarray.pop(nextindex)
-            print(nextword)
-            print("".join(["=" for _ in nextword]))
-
-            savename = input("Type a name to save, or press enter for next word: ")
-            if len(savename) > 0:
-                savegame(savename)
-
-            print(f"Time left: {int(endround - time.time())}")
-            if time.time() > endround:
-                pauseround()
-                endround = time.time() + roundtime
-            getword()
-        else:
-            print("[GAME OVER] No more words in the list.")
-            return
-
     endround = time.time() + roundtime
-    getword()
+
+    while wordarray:
+        print("\n\n\n\n")
+        nextindex = random.randint(0, len(wordarray) - 1)
+        nextword = wordarray.pop(nextindex)
+        print(nextword)
+        print("=" * len(nextword))
+
+        savename = input("Type a name to save, or press enter for next word: ")
+        if savename:
+            savegame(savename)
+
+        print(f"Time left: {int(endround - time.time())}")
+        if time.time() > endround:
+            pauseround()
+            endround = time.time() + roundtime
+
+    print("[GAME OVER] No more words in the list.")
 
 ############
 ##  GAME  ##
 ############
 
-roundtime = 60.0 * 4
+roundtime = 60.0 * 4  # default 4 minutes
 wordlist_directories = ["words", "saves", "completed"]
 saves_directory = wordlist_directories[1]
 
@@ -111,7 +109,12 @@ except ValueError:
 
 filelist = []
 for worddir in wordlist_directories:
-    filelist += [os.path.join(worddir, x) for x in os.listdir(worddir)]
+    if os.path.isdir(worddir):
+        filelist += [os.path.join(worddir, x) for x in os.listdir(worddir) if os.path.isfile(os.path.join(worddir, x))]
+
+if not filelist:
+    print("[Error] No word files found. Exiting.")
+    sys.exit(1)
 
 for i, file in enumerate(filelist):
     print(f"[{i:2d}]  {file}")
@@ -120,7 +123,7 @@ filename = ""
 while True:
     try:
         filenumber = int(input("Enter index of file to open: "))
-        if filenumber in range(len(filelist)):
+        if 0 <= filenumber < len(filelist):
             filename = filelist[filenumber]
             break
         else:

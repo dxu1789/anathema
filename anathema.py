@@ -39,8 +39,7 @@ def pauseround():
     input("[ROUND OVER] Press enter to continue.")
 
 def playround(filename, roundtime):
-    global wordarray
-    global endround
+    global wordarray, endround, used_words
 
     if filename:
         print(f"[Opening file: {filename}]")
@@ -48,7 +47,7 @@ def playround(filename, roundtime):
         with open(filename, "r", encoding="utf-8") as wordfile:
             for line in wordfile:
                 addword = parseline(line)
-                if addword:
+                if addword and addword not in used_words:
                     wordarray.append(addword)
     endround = time.time() + roundtime
 
@@ -56,6 +55,10 @@ def playround(filename, roundtime):
         print("\n\n\n\n")
         nextindex = random.randint(0, len(wordarray) - 1)
         nextword = wordarray.pop(nextindex)
+
+        # Mark this word as used
+        used_words.add(nextword)
+
         print(nextword)
         print("=" * len(nextword))
 
@@ -63,6 +66,12 @@ def playround(filename, roundtime):
 
         remaining = int(endround - time.time())
         print(f"Time left: {remaining // 60}:{remaining % 60:02d}")
+
+        # Remove any newly used words from the pool if still present
+        wordarray = [w for w in wordarray if w not in used_words]
+
+    if not wordarray:
+        print("[No unused words remaining in this file or mode.]")
 
     pauseround()
     print("[GAME OVER] End of one round.")
@@ -91,7 +100,7 @@ def read_wordfile(filepath):
 
 roundtime = 60.0 * 3  # default 3 minutes
 wordlist_directories = ["wordlists"]
-
+used_words = set()
 sound_endround = os.path.join("sounds", "redalert.wav")
 rulesfile = "rules.txt"
 
